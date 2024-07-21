@@ -42,7 +42,7 @@ Database Tables used in our SQL localhost Queries to make these table structures
 
 ![image](https://github.com/user-attachments/assets/adb3b51e-2af5-4aaf-9827-4bdb2c9983a7)
 
-##Uses##
+## Uses
 
 1.Maintain Data of large number of students with interconnected tables.
 
@@ -50,7 +50,7 @@ Database Tables used in our SQL localhost Queries to make these table structures
 
 3.Can do analysis easily with SQL.
 
-##Possible Upgrades:##
+## Possible Upgrades:
 
 1.Using Tkinter to convert this into GUI App
 
