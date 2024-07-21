@@ -32,7 +32,7 @@ Database Tables used in our SQL localhost Queries to make these table structures
 
 ### Students Table
 
-![image](https://github.com/user-attachments/assets/69ff1ce9-9d92-44e3-a957-872d62ce1fb2)
+![image](https://github.com/user-attachments/assets/b9c0fa64-1c9f-4ebb-8b04-3afc222c2a61)
 
 ### Students' Info Table
 
@@ -41,3 +41,17 @@ Database Tables used in our SQL localhost Queries to make these table structures
 ### Students' Courses Table
 
 ![image](https://github.com/user-attachments/assets/adb3b51e-2af5-4aaf-9827-4bdb2c9983a7)
+
+##Uses##
+
+1.Maintain Data of large number of students with interconnected tables.
+
+2.Get data about students easily using queries.
+
+3.Can do analysis easily with SQL.
+
+##Possible Upgrades:##
+
+1.Using Tkinter to convert this into GUI App
+
+2.Using this with Web Development to create an user friendly interface
